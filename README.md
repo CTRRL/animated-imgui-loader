@@ -9,6 +9,10 @@
 **🎨 Need a custom loader/menu?**
 **I can make you a custom loader/menu without it costing a fortune**
 
+## skids
+** dont sell this menu  **
+** حسبي الله على اي واحد يبيعه **
+
 **📩 Contact me on Discord: `moat.`**
 
 ## Showcase
