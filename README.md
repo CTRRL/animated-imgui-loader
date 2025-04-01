@@ -1,7 +1,3 @@
-# Donations
-**💖 Your support is appreciated!**
-[Donate via PayPal](https://www.paypal.com/paypalme/mgotpaid)
-
 ## My Work
 **✨ A simple animated C++ ImGui loader I made a while ago**
 
