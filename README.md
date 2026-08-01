@@ -7,7 +7,6 @@
 
 ## skids
 **dont sell this menu**
-**حسبي الله على اي واحد يبيعه**
 
 **📩 Contact me on Discord: `moat.`**
 
